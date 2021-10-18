@@ -1,5 +1,7 @@
 # Hunternet Starfighter - VR using VorpX
 
+By DannyTheCoder - October 17, 2021
+
 ## Motivation
 
 Video games are my escape from a busy life.  Since I have limited time to play, I try to spend most of my game time in VR.  
@@ -13,7 +15,7 @@ I believe this will work with much lower specs, but this is my test system
 * SSD disk drive
 * Windows 10
 * Valve Index  (I also have an Oculus Quest 2 that I can use via Air Link or a USB-C cable.  I haven't tried that with VorpX yet, but I can help troubleshoot if someone else tries it first).
-  * I have it configured for 80 fps, and I can maintain that with no issues in Hunternet.  Note that with the way VorpX intercepts and rewrites API calls, it is often CPU-bound more than GPU-bound (so a faster processor may be as important as a faster graphics card).
+  * It is configured for 80 fps, and I can maintain that with no issues in Hunternet.  Note that with the way VorpX intercepts and rewrites API calls, it is often CPU-bound more than GPU-bound (so a fast processor may be as important as a fast graphics card).
 
 ## Initial Setup
 
