@@ -39,7 +39,7 @@ I believe this will work with much lower specs, but this is my test system
    8. Rift S/ Oculus Quest 1: use 2080 x 2000 and FOV of 115 in the game
    9. Oculus Quest 2: 2080 x 1960 and use FOV of 114
 
-![Image of nVIDIA Control Panel](images_hn/HN_VorpX_ImportProfile.png)
+![Image of nVIDIA Control Panel](images_hn/HN_VorpX_GraphicsCard.png)
 
 8. Ensure that the VorpX icon is in the tray, and then Launch Hunternet Starfighter and VorpX should automatically attach to the process.
 
