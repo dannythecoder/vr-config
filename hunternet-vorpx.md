@@ -11,7 +11,7 @@ Video games are my escape from a busy life.  Since I have limited time to play, 
 I believe this will work with much lower specs, but this is my test system
 * AMD Ryzen 1700X CPU
 * 32 GB RAM
-* nVIDIA GTX 2080 TI
+* nVIDIA RTX 2080 TI
 * SSD disk drive
 * Windows 10
 * Valve Index  (I also have an Oculus Quest 2 that I can use via Air Link or a USB-C cable.  I haven't tried that with VorpX yet, but I can help troubleshoot if someone else tries it first).
