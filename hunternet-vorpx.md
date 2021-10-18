@@ -41,7 +41,7 @@ I believe this will work with much lower specs, but this is my test system
 
 ![Image of nVIDIA Control Panel](images_hn/HN_VorpX_GraphicsCard.png)
 
-8. Ensure that the VorpX icon is in the tray, and then Launch Hunternet Starfighter and VorpX should automatically attach to the process.
+7. Ensure that the VorpX icon is in the tray, and then Launch Hunternet Starfighter and VorpX should automatically attach to the process.
 
 ## In-Game Configuration
 
@@ -61,7 +61,7 @@ I believe this will work with much lower specs, but this is my test system
 These are things that will not be issues once the game gets native VR support:
 * The TrackIR emulation works well overall, but some of the quirks include: 
   * Rotating your head often also leads to about a foot of sideways translation. It takes a while to grow accustomed to that. For me, it didn’t take long to just ignore that jarring motion.
-  * Parallax is often uncannily incorrect.  Put another way, the motion of near objects and far objects won't quite line up with your brain's expectation.  That is fine with TrackIR when the screen is actually stationary, but it is an interesting effect with a moving screen.  Once again, note that this is caused by the TrackIR emulation, it isn't a problem in Unity games with native VR support.
+  * Parallax is sometimes uncannily incorrect.  Put another way, the motion of near objects and far objects won't quite line up with your brain's expectation.  That is fine with TrackIR when the screen is actually stationary, but it is an interesting effect with a moving screen.  Once again, note that this is caused by the TrackIR emulation, it isn't a problem in Unity games with native VR support.
   * The Star fields in the background often lag behind the other motion. After playing for about 10 minutes, I was able to ignore that and focus most of my attention on closer objects. But that may be disorienting for some people.
 * Experiment with the VorpX configuration while in the game. The settings that are most comfortable for me may not be best for you.
 
