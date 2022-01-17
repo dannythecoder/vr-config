@@ -2,6 +2,12 @@
 
 By DannyTheCoder - October 17, 2021
 
+
+
+# OUTDATED As of Jan 2022.  Hunternet has native VR support!
+
+
+
 ## Motivation
 
 Video games are my escape from a busy life.  Since I have limited time to play, I try to spend most of my game time in VR.  
